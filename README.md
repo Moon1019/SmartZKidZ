@@ -1,2 +1,2 @@
 # SmartZKidZ
-connecting repository
+Any Queries regarding SmartZKidz app.
